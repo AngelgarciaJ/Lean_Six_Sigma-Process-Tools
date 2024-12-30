@@ -11,6 +11,7 @@ bcrypt # para encriptar contraseñas
 streamlit_material # para darle un estilo a la app
 graphviz
 reportlab
+openpyxl
 
 
 
